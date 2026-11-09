@@ -4,6 +4,10 @@ Turn the raw material of a project (notes, images, a deck, links, a client email
 
 **What you get:** Turns project notes, images, a deck or links into a portfolio case study - a responsive web page, a PDF and Markdown ready to paste into a portfolio site, Behance, Notion or LinkedIn - covering the challenge, insight, idea, process, craft, results and credits. Can tailor the story to a target company or role. Never invents results or quotes.
 
+![Pages from a sample Case Study: story and hero image, insight, idea and process, results and credits](docs/preview.png)
+
+**See the full sample:** [Sample-Paloma-Park-Sessions-Case-Study.pdf](examples/Sample-Paloma-Park-Sessions-Case-Study.pdf) (fictional names and figures)
+
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/case-study/issues/new)
 
 ## Install
@@ -36,6 +40,8 @@ mkdir -p ~/.claude/skills && cp -r case-study/case-study ~/.claude/skills/
 Then use `/case-study`.
 
 ## Usage
+
+![Animated demo: example requests typed into Claude, each followed by what the Case Study skill makes](docs/how-to-ask.gif)
 
 ```
 /case-study <project name> [for <company or role>] [short | long]
