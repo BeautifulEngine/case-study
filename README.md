@@ -4,9 +4,9 @@ Turn the raw material of a project (notes, images, a deck, links, a client email
 
 **What you get:** Turns project notes, images, a deck or links into a portfolio case study - a responsive web page, a PDF and Markdown ready to paste into a portfolio site, Behance, Notion or LinkedIn - covering the challenge, insight, idea, process, craft, results and credits. Can tailor the story to a target company or role. Never invents results or quotes.
 
-![Pages from a sample Case Study: story and hero image, insight, idea and process, results and credits](docs/preview.png)
+![Pages from a sample Case Study: story and deck wall, insight, idea, process and results](docs/preview.png)
 
-**See the full sample:** [Sample-Paloma-Park-Sessions-Case-Study.pdf](examples/Sample-Paloma-Park-Sessions-Case-Study.pdf) (fictional names and figures)
+**See the full sample:** [Sample-ATHLOS-Case-Study.pdf](examples/Sample-ATHLOS-Case-Study.pdf) (a real project, written from beautifulengine.com)
 
 Made by Beautiful Engine · [beautifulengine.com](https://www.beautifulengine.com) · [Questions or ideas? Open an issue](https://github.com/BeautifulEngine/case-study/issues/new)
 
